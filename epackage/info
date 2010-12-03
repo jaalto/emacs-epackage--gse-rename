@@ -13,13 +13,13 @@ Vcs-Url: http://www.antisleep.com/download/elisp/gse-rename.el
 Vcs-Browser:
 Homepage:
 Wiki:
-Description: enhance rect.el by adding numering rectangles
-    Provides `gse-rename' which shows two columns of filenames.
-    The first column is the SOURCE filenames, the second column is the
-    DESTINATION. Command C-c C-c (gse-rename-go) will rename all of
-    the source filenames to their respective target names.
-    .
-    This makes it easy to rename files with clever text-editor
-    maneuvers like rectangle operations, replace-string, etc.
-    .
-    Note 2010-12-03 the code was last updated 2004.
+Description: rename files like you would edit text
+ Provides `gse-rename' which shows two columns of filenames.
+ The first column is the SOURCE filenames, the second column is the
+ DESTINATION. Command C-c C-c (gse-rename-go) will rename all of
+ the source filenames to their respective target names.
+ .
+ This makes it easy to rename files with clever text-editor
+ maneuvers like rectangle operations, replace-string, etc.
+ .
+ Note 2010-12-03 the code was last updated 2004.
