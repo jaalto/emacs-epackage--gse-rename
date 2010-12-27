@@ -5,7 +5,9 @@ Depends: emacs (>= 21)
 Status: unmaintained
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
-Email: Scott Evans <gse@antisleep.com>
+Bugs:
+Upstream: Scott Evans <gse@antisleep.com>
+Upstream-Bugs:
 X-Upstream-Homepage: http://antisleep.com
 Bugs:
 Vcs-Type: http
@@ -22,4 +24,4 @@ Description: rename files like you would edit text
  This makes it easy to rename files with clever text-editor
  maneuvers like rectangle operations, replace-string, etc.
  .
- Note 2010-12-03 the code was last updated 2004.
+ Note 2010-12-03: the code was last updated 2004.
