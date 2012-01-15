@@ -6,4 +6,4 @@
 (autoload 'gse-rename-directory-files           "gse-rename" "" nil)
 (autoload 'gse-rename-go                        "gse-rename" "" t)
 (autoload 'gse-rename-script                    "gse-rename" "" t)
-(provide 'gse-rename-epkg-autoloads)
+(provide 'gse-rename-epackage-autoloads)
