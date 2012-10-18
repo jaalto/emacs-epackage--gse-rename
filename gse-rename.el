@@ -2,7 +2,7 @@
 ;;   Summary:     Bulk file renamer.
 ;;   Author:      Scott Evans <gse@antisleep.com>
 ;;   Home:        http://www.antisleep.com/elisp
-;;   Time-stamp:  <2004.12.23 00:49:20 gse>
+;;   Time-stamp:  <2010.12.03 13:49:10 gse>
 ;;
 ;; Commentary:
 ;;   I always find myself having to rename a lot of files at once, and
@@ -26,6 +26,7 @@
 ;;---------------------------------------------------------------------------
 ;; Change Log
 ;; ----------
+;; 2010.10.03 Add GPL.
 ;; 2004.01.28 Forgot to use wrapper call in one place.
 ;; 2004.01.27 Add Gnu Emacs implementation of directory-files.
 ;; 2002.05.06 Prefix means "include directories in list".
